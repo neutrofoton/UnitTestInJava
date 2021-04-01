@@ -1,3 +1,3 @@
 # UnitTestInJava
 
-Example unit test ini java using JUnit 5 and Mockito
+Example unit test in java using JUnit 5 and Mockito
